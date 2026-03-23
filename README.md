@@ -1,5 +1,7 @@
 Deployed Link
 https://dashboardbuildervk.netlify.app/
+Demo Video
+https://drive.google.com/file/d/1sl6IYABk4RShao3-T_xHdx2D1tsYn56e/view?usp=drive_link
 # 📊 DataDash — Full Stack Dashboard Builder
 
 A full-stack analytics dashboard with drag-and-drop builder, customer order CRUD, and responsive layout.
